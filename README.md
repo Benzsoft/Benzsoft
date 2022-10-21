@@ -12,7 +12,7 @@
  
  <br>
  
-## MY EDUCATION  📚
+## MY Education  📚
  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 2016-2022: PhD Candidate in Communication Engineering <br>
@@ -37,8 +37,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ IP Configuration (Enterprise level) <br>
 
 
- 
- 
  📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ HTML<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ CSS<br>
@@ -53,13 +51,15 @@
 
 <br>
 
- 📜&nbsp;&nbsp;**Currently Learning:**<br>
+
+## Currently Learning 📜
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Blockhain Development (Eat the block / Udemy) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Machine learning (Udacity) <br>
 
 <details>
 <summary>
-  More stuff about me
+  More stuff about me ⤵️ 
 </summary>
 
 
@@ -75,8 +75,8 @@
 
 
 
-
-📪&nbsp;&nbsp;**HOW TO REACH ME:**<br> 
+### How to reach me 📪
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️WhatsApp:** [Boisguene Rubbens](https://wa.me+18039561781)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Linkedin:** [Boisguene Rubbens](https://www.linkedin.com/in/boisguenerubbens/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️E-Mail:** rubbensonly@gmail.com <br> 
