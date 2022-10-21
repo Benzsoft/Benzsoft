@@ -29,7 +29,7 @@
 
 
 <br>
-**📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
+📪&nbsp;&nbsp;**HOW TO REACH ME:**<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️WhatsApp:** [Boisguene Rubbens](https://wa.me+18039561781)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️Linkedin:** [Boisguene Rubbens](https://www.linkedin.com/in/boisguenerubbens/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**✔️E-Mail:** rubbensonly@gmail.com <br> 
