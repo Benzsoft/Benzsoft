@@ -1,6 +1,8 @@
 ## Hi There
 ![Hi There](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
 
+<img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+
 
 ###  ✒️ : About Me :
 ### I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist. I'm Also proficient in server administration, Virtual machine, active directory, IP setting, And Currently I'm learning Blockchain Development <br> 
