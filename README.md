@@ -1,8 +1,9 @@
 ## Hi There
 ![Hi There](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
 
- Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist <br> 
+###  Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist <br> 
  
+ <br>
  
 📚&nbsp;&nbsp;**MY EDUCATION:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 2016-2022: PhD Candidate in Communication Engineering <br>
