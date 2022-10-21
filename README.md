@@ -3,7 +3,7 @@
 
  Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist <br> 
  
- <br>
+ 
 📚&nbsp;&nbsp;**MY EDUCATION:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 2016-2022: PhD Candidate in Communication Engineering <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏫 National Central University<br>
