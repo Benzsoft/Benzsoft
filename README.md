@@ -35,7 +35,7 @@
 <br>
 
 
-📪&nbsp;&nbsp;**Most Used Languages On GitHub:**<br> 
+💥&nbsp;&nbsp;**Most Used Languages On GitHub:**<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benzsoft)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Benzsoft&show_icons=true&count_private=true)  
