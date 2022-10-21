@@ -8,7 +8,7 @@
 
 
 ###  ✒️ : About Me :
-### I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist. I'm Also proficient in server administration, Virtual machine, active directory, IP setting, And Currently I'm learning Blockchain Development <br> 
+### I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist. I worked as an IT specialist (server administration, Virtual machine, active directory, IP setting). I'm learning Blockchain Development and Machine learning<br> 
  
  <br>
  
