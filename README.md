@@ -55,6 +55,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Blockhain Development (Eat the block / Udemy) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Machine learning (Udacity) <br>
 
+<details>
+<summary>
+  More stuff about me
+</summary>
+
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | Fluent                                                                    |
+| French        | Native / Official                                                         |
+| Chinese       | Fluent                                                                    |
+| Creole        | Native language                                                           |
+| Spanish       | Basic                                                                     |
+
+
 
 
 📪&nbsp;&nbsp;**HOW TO REACH ME:**<br> 
