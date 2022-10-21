@@ -8,11 +8,11 @@
 
 
 ###  ✒️ About Me :
-### I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist. I worked as an IT specialist (server administration, Virtual machine, active directory, IP setting). I'm learning Blockchain Development and Machine learning<br> 
+I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist. I worked as an IT specialist (server administration, Virtual machine, active directory, IP setting). I'm learning Blockchain Development and Machine learning<br> 
  
  <br>
  
-## MY Education  📚
+## My Education  📚
  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📘 2016-2022: PhD Candidate in Communication Engineering <br>
@@ -37,15 +37,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ IP Configuration (Enterprise level) <br>
 
 
- 📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
+ 📜&nbsp;&nbsp;**PROGRAMMING / WEB DEVELOPMENT SKILLS:**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ HTML<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ CSS<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ JavaScript (basic) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ PHP<br>
-
- 📜&nbsp;&nbsp;**Web Development:**<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Wordpress
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Wordpress
 <br>
 
 
