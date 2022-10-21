@@ -2,7 +2,7 @@
 ![Hi There](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
 
 
-### I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist <br> 
+### I'm Boisguene Rubbens, <br> Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist. I'm Also proficient in server administration, Virtual machine, active directory, IP setting, And Currently I'm learning Blockchain Development <br> 
  
  <br>
  
@@ -21,15 +21,10 @@
  
  
  📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Java<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ R<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ C#<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ HTML<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ CSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ JavaScript<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ OOP<br>
 
 <br>
 
