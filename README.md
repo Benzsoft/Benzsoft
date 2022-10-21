@@ -2,6 +2,26 @@
 ![Hi There](https://img.freepik.com/premium-vector/welcome-banner-word-white-background-colorful-rainbow-sign-label-design-wallpaper-vector-illustration_87543-10859.jpg?w=2000)
 
  Computer Scientist, Communication Engineer, Crypto Enthusiast, Certified Social & Community Specialist 
+ 
+ 
+ 📜&nbsp;&nbsp;**MY PROGRAMMING SKILLS:**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Python<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ SQL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ Java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ R<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ C#<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ HTML<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ CSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ JavaScript<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✓ OOP<br>
+
+
+<br><br>
+**📪&nbsp;&nbsp; HOW TO REACH ME:**<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️WhatsApp: **[Boisguene Rubbens](https://wa.me+18039561781)<br>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️Linkedin: **[Boisguene Rubbens](https://www.linkedin.com/in/boisguenerubbens/)<br>**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✔️E-Mail: **rubbensonly@gmail.com**<br> 
+<br><br>
 
 
 
